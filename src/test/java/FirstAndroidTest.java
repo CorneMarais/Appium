@@ -11,7 +11,7 @@ public class FirstAndroidTest {
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("platform","Android");
         caps.setCapability("automationName","UiAutomator2");
-        caps
+        caps.
 
 
 
